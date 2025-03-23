@@ -21,6 +21,11 @@ import food_17 from './17.jpg';
 import food_18 from './18.jpg';
 import header from  './header.jpg';
 
+import menu_1 from './menu_1.jpg';
+import menu_2 from './menu_2.jpg';
+import menu_3 from './menu_3.jpg';
+import menu_4 from './menu_4.jpg';
+
 
 export const assets = {
     logo,
@@ -48,3 +53,27 @@ export const assets = {
     
 
 }
+
+export const menu_list = [
+    {
+        menu_name: "Salad",
+        menu_image: menu_1,
+    },
+
+    
+       
+        {
+            menu_name: "Pasta",
+            menu_image: menu_2,
+        },
+    
+        {
+            menu_name: "Dessert",
+            menu_image: menu_3,
+        },
+    
+        {
+            menu_name: "Drink",
+            menu_image: menu_4,
+        },
+]

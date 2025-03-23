@@ -1,7 +1,7 @@
 import React from 'react';
 import './placeOrder.css';
 
-function placeOrder() {
+function PlaceOrder() {
   return (
     <div>
       
@@ -9,4 +9,4 @@ function placeOrder() {
   )
 }
 
-export default placeOrder
+export default PlaceOrder

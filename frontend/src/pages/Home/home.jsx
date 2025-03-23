@@ -1,13 +1,16 @@
 import React from 'react';
-import './home.css';
+import Header from '../../components/Header/Header';
+import ExploreMenu from '../../components/ExploreMenu/ExploreMenu';
 
-function home() {
+
+const Home = () => {
   return (
     <div>
       <Header/>
+      <ExploreMenu/>
     </div>
   )
 }
 
-export default home
+export default Home;
 
