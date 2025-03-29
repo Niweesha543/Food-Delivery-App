@@ -1,5 +1,5 @@
 import basket from './basket.png';
-import logo from './logo.png';
+import logo2 from './logo2.png';
 import search_icon from './search_icon.png';
 import food_1 from './1.jpg';
 import food_2 from './2.jpg';
@@ -25,6 +25,13 @@ import add_icon_black from './add_icon_black.png';
 import add_icon_green from './add_icon_green.png';
 import remove_icon_red from './remove_icon_red.png';
 
+import fb_icon from './fb_icon.png';
+import twitter_icon from './twitter_icon.png';
+import linkedin_icon from './linkedin_icon.png';
+import app_store from './app_store.png';
+import play_store from './play_store.png';
+import cross_icon from './cross_icon.png';
+
 import menu_1 from './menu_1.jpg';
 // import menu_2 from './menu_2.jpg';
 // import menu_3 from './menu_3.jpg';
@@ -32,7 +39,7 @@ import menu_1 from './menu_1.jpg';
 import menu_5 from './menu_5.jpg';
 
 export const assets = {
-    logo,
+    logo2,
     basket,
     search_icon,
     food_1,
@@ -57,6 +64,12 @@ export const assets = {
     add_icon_black,
     add_icon_green,
     remove_icon_red,
+    fb_icon,
+    twitter_icon,
+    linkedin_icon,
+    app_store,
+    play_store,
+    cross_icon,
     
 
 }
